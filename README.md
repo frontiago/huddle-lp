@@ -7,7 +7,9 @@
 
 ---
 
-### 👁️ [View Online](https://huddle-lp.vercel.app/)
+### 👁️ [View Online](https://huddlelp.vercel.app/)
+
+---
 
 #### Desktop view:
 ![Print](./public/images/print-huddle-desktop.png)
