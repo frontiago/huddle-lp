@@ -4,6 +4,11 @@
 - Font Awesome icons pack in React Icons
     - [https://react-icons.github.io/react-icons/icons?name=fa](https://react-icons.github.io/react-icons/icons?name=fa)
 
+Install dependencies and run the project: 
+```
+npm install
+npm start
+```
 
 ---
 
