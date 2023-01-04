@@ -1,6 +1,6 @@
 ## Huddle - Landing Page
 
-- Create with ReactJS and Styled Components
+- Created with ReactJS and Styled Components
 - Font Awesome icons pack in React Icons
     - [https://react-icons.github.io/react-icons/icons?name=fa](https://react-icons.github.io/react-icons/icons?name=fa)
 
